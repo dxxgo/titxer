@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 export default function Login() {
     return (
         <div className="login-container">
-            <Link className='voltarLink' to='/titxer/'>
+            <Link className='voltarLink' to='/titxer/'> 
                 <img src={voltarIcon} />
                 voltar</Link>
             <div className='login-content'>
