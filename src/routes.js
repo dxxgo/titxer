@@ -7,9 +7,9 @@ export default function RoutesApp() {
     return(
         <BrowserRouter>
             <Routes>
-                <Route path="/"  element={<Inicio />} />
-                <Route path="/ultima-avaliacao"  element={<UltimaAvaliacao />} />
-                <Route path="/login"  element={<Login />} />
+                <Route path="/titxer/"  element={<Inicio />} />
+                <Route path="/titxer/ultima-avaliacao"  element={<UltimaAvaliacao />} />
+                <Route path="/titxer/login"  element={<Login />} />
             </Routes>
         </BrowserRouter>
     );

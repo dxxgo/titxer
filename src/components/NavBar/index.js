@@ -9,15 +9,15 @@ export default function NavBar(props) {
             <span className='appName'>titxer</span>
             <ul>
                 <li>
-                    <Link id='link' to='/'>Avaliação do dia</Link>
+                    <Link id='link' to='/titxer/'>Avaliação do dia</Link>
                 </li>
                 <li>
-                    <Link id='link' to='/ultima-avaliacao'>Avaliação anterior</Link>
+                    <Link id='link' to='/titxer/ultima-avaliacao'>Avaliação anterior</Link>
                 </li>
                 
             </ul>
 
-            <Link id='link' to='/login'>
+            <Link id='link' to='/titxer/login'>
                 <img src={entrarIcon} />
                 Login</Link>
         </div>
