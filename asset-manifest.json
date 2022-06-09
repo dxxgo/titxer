@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/titxer/static/css/main.f095930d.css",
+    "main.css": "/titxer/static/css/main.38dfa1d8.css",
     "main.js": "/titxer/static/js/main.1fb82af6.js",
     "static/js/787.e39b1348.chunk.js": "/titxer/static/js/787.e39b1348.chunk.js",
     "static/media/students.png": "/titxer/static/media/students.7e9bbfc02f683eb8e4d4.png",
@@ -10,12 +10,12 @@
     "static/media/thumbs-down.svg": "/titxer/static/media/thumbs-down.958f3f7677506c0efcf3c29712dce913.svg",
     "static/media/entrar.svg": "/titxer/static/media/entrar.2b5f4aa384e90736cac704c372eecec3.svg",
     "static/media/arrow-left.svg": "/titxer/static/media/arrow-left.7a66117b0f87c46a97f8e3ab29ab1604.svg",
-    "main.f095930d.css.map": "/titxer/static/css/main.f095930d.css.map",
+    "main.38dfa1d8.css.map": "/titxer/static/css/main.38dfa1d8.css.map",
     "main.1fb82af6.js.map": "/titxer/static/js/main.1fb82af6.js.map",
     "787.e39b1348.chunk.js.map": "/titxer/static/js/787.e39b1348.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f095930d.css",
+    "static/css/main.38dfa1d8.css",
     "static/js/main.1fb82af6.js"
   ]
 }
