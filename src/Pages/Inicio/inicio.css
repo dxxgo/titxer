@@ -82,10 +82,6 @@
         border-radius: 10px;
     }
 
-    .navBar ul {
-        gap: 0 !important;
-    }
-
     .navBar {
         font-size: 70%;
     }
