@@ -6,8 +6,8 @@
     gap: 20px;
     width: calc(100% - 40px);
     max-width: 700px;
-    height: 100vh;
     padding-top: 80px;
+    height: 100vh;
 }
 
 .content2 {
@@ -51,4 +51,47 @@
 
 .right-container:hover::-webkit-scrollbar-thumb {
     background-color: #a4aeb9;
+}
+
+@media screen and (max-width: 400px) {
+    .content {
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .content2 {
+        width: 100%;
+        height: 400px;
+        margin-bottom: 20px;
+    }
+
+    .left-container {
+        width: 100%;
+        height: 100%;
+    }
+
+    .professor {
+        width: 100%;
+    }
+
+    .container {
+        height: 100% !important;
+    }
+
+    .right-container {
+        border-radius: 10px;
+    }
+
+    .navBar ul {
+        gap: 0 !important;
+    }
+
+    .navBar {
+        font-size: 70%;
+    }
+
+    .navBar .appName {
+        display: none;
+    }
+
 }

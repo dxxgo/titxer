@@ -9,6 +9,7 @@
     justify-content: space-between;
     flex-direction: row;
     padding: 0 20px;
+    left: 0;
 }
 
 .appName {
@@ -28,6 +29,7 @@
 
 .navBar ul li {
     list-style: none;
+    text-align: center;
 }
 
 #link {
@@ -60,4 +62,3 @@
     text-decoration: none;
     font-weight: 600;
 }
-
